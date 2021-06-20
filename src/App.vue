@@ -6,12 +6,12 @@
 </template>
 
 <script>
-  import CardList from '/components/CardList'
+import CardList from '/components/CardList'
 
-  export default {
-    name: 'App',
-    components: {
-      CardList
-    }
+export default {
+  name: 'App',
+  components: {
+    CardList
   }
+}
 </script>

@@ -15,7 +15,7 @@ export default {
         const store = useStore()
         onMounted(() => {
             console.log(store.state.productos)
-            store.dispatch('getProductos')
+            //store.dispatch('getProductos')
         }),
     }
     
